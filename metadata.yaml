@@ -1,0 +1,7 @@
+homepage: "https://www.firstpartyhq.com"
+documentation: "https://www.firstpartyhq.com"
+versions:
+  # Latest version
+  - sha: 75521f21cebbb571ed987f00069658e1744d06b7
+    changeNotes: |2
+      Initial version
