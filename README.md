@@ -1,0 +1,1 @@
+# Firstparty Google Tag Manager Template
